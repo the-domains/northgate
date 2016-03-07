@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NorthGate]]></title>
-        <description><![CDATA[NorthGate]]></description>
+        <title><![CDATA[Northgate Church]]></title>
+        <description><![CDATA[Northgate Church]]></description>
         <link>https://thegrid.ai/northgate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:10:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/northgate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea74776-7a15-4a98-9549-c449639d8ac8.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/201c0837-43da-412f-a607-61fb298b7946.jpg">]]></description>
             <link>https://thegrid.ai/northgate/da2c9a1d-8aec-4115-8a3b-87bf6c85cfb3/index.html</link>
             <guid isPermaLink="false">da2c9a1d-8aec-4115-8a3b-87bf6c85cfb3</guid>
-            <pubDate>Mon, 07 Mar 2016 17:38:56 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 19:09:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
