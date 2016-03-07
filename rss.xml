@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NorthGate]]></title>
         <description><![CDATA[NorthGate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/northgate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:36:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 17:39:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/northgate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Every decision we make is an act of Worship.</p>]]></description>
-            <link>undefinedda2c9a1d-8aec-4115-8a3b-87bf6c85cfb3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea74776-7a15-4a98-9549-c449639d8ac8.jpg">]]></description>
+            <link>https://thegrid.ai/northgate/da2c9a1d-8aec-4115-8a3b-87bf6c85cfb3/index.html</link>
             <guid isPermaLink="false">da2c9a1d-8aec-4115-8a3b-87bf6c85cfb3</guid>
-            <pubDate>Mon, 07 Mar 2016 17:36:19 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 17:38:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
