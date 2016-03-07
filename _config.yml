@@ -1,7 +1,7 @@
 name: NorthGate
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7694236091338098
+typography_spectrum: 0.76594
 title: Northgate Church
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#40546c'
+    - '#c5c5c9'
+    - '#f4f4f1'
+    - '#002842'
+    - '#888e9c'
   brandStrength: 0.507861191406846
   lightness: 0.30880878679454327
   saturation: 0.9787343775387853
