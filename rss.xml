@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Northgate Church]]></title>
         <description><![CDATA[Northgate Church]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/northgate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:31:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 21:35:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/northgate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67d8ba35-c016-41af-a7ef-b93f00c6c997.jpg">]]></description>
-            <link>undefined9a9cfe0d-5a47-4f70-9aad-fbecd26ae4cc/index.html</link>
+            <link>https://thegrid.ai/northgate/9a9cfe0d-5a47-4f70-9aad-fbecd26ae4cc/index.html</link>
             <guid isPermaLink="false">9a9cfe0d-5a47-4f70-9aad-fbecd26ae4cc</guid>
-            <pubDate>Mon, 07 Mar 2016 21:29:31 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 21:34:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
